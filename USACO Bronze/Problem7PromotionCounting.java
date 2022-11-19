@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem7PromotionCounting {
+public class PromotionCounting {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("promote.in"));
