@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem13MixingMilk {
+public class MixingMilk {
 
 	public static void main(String[] args) throws Exception {
 		milk m = new milk();
