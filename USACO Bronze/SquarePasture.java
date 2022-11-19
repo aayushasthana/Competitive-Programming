@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem11SquarePasture {
+public class SquarePasture {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("square.in"));
