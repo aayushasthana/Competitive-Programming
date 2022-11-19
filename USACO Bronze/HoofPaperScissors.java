@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem15HoofPaperScissors {
+public class HoofPaperScissors {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("hps.in"));
