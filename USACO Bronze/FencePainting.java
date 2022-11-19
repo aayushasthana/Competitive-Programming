@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem9FencePainting {
+public class FencePainting {
 
 	public static void main(String[] args) throws Exception {
 		PrintWriter w = new PrintWriter("paint.out");
