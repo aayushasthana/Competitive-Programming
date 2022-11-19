@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem8TheLostCow {
+public class TheLostCow {
 
 	public static void main(String[] args) throws Exception {
 		cow c = new cow();
