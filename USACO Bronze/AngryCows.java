@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem50AngryCows {
+public class AngryCows {
 
 	public static void main(String[] args) throws Exception {
 		
