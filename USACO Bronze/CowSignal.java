@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class Problem21CowSignal {
+public class CowSignal {
 
 	public static void main(String[] args) throws Exception {
 		PrintWriter w = new PrintWriter("cowsignal.out");
