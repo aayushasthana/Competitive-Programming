@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem49BackAndForth {
+public class BackAndForth {
 	static PrintWriter w;
 	static Scanner sc;
 	static ArrayList<Integer> barn1Buckets = new ArrayList<Integer>();
