@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Problem60SleepingCowHerding {
+public class SleepingCowHerding {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("herding.in"));
