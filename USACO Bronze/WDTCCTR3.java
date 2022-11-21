@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem35WDTCTR3 {
+public class WDTCCTR3 {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("cowqueue.in"));
