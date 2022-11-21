@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem55Hoofball {
+public class Hoofball {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("hoofball.in"));
