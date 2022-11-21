@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem19ShellGame {
+public class ShellGame {
 
 	public static void main(String[] args) throws Exception {
 		shell s = new shell();
