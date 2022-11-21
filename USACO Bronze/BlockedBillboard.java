@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem22BlockedBillboard {
+public class BlockedBillboard {
 
 	public static void main(String[] args) throws Exception {
 		bill b = new bill();
