@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem44Triangles {
+public class Triangles {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("triangles.in"));
