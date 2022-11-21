@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem70ComfortableCowsV2 {
+public class ComfortableCows {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(System.in);
