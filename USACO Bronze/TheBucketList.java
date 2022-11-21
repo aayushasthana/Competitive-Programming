@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem26TheBucketList {
+public class TheBucketList {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("blist.in"));
