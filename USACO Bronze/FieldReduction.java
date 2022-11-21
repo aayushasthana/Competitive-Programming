@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem41FieldReduction {
+public class FieldReduction {
 	
 	public static void main(String[] args) throws Exception{
 		PrintWriter w = new PrintWriter("reduce.out");
