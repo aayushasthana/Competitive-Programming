@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem46ContaminatedMilk {
+public class ContaminatedMilk {
 
 	public static void main(String[] args) throws Exception {
 		/*
