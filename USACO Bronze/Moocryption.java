@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem71MoocryptionV2 {
+public class Moocryption {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("moocrypt.in"));
