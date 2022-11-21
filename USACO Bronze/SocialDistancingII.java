@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class SocialDistancing2 {
+public class SocialDistancingI {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("socdist2.in"));
