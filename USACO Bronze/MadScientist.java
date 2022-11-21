@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem32MadScientist {
+public class MadScientist {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("breedflip.in"));
