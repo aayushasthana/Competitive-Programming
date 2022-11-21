@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem29SpeedingTicket {
+public class SpeedingTicket {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("speeding.in"));
