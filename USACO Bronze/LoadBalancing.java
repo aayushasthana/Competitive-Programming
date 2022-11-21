@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem39LoadBalancing {
+public class LoadBalancing {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("balancing.in"));
