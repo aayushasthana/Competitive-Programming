@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem34DontBeLast {
+public class DontBeLast {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("notlast.in"));
