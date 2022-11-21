@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem43SleepyCowSorting {
+public class SleepyCowSorting {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("sleepy.in"));
