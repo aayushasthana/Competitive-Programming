@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem38CowntactTracing {
+public class CowntactTracing {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("tracing.in"));
