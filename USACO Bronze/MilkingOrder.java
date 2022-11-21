@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem56MilkingOrderV2 {
+public class MilkingOrder {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("milkorder.in"));
