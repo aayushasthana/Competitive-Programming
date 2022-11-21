@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem25BovineGenomics {
+public class BovineGenomics {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("cownomics.in"));
