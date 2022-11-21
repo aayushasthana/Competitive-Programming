@@ -3,7 +3,7 @@ import java.util.*;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class Problem30MowingTheField {
+public class MowingTheField {
 
 	public static void main(String[] args) throws Exception {
 		
