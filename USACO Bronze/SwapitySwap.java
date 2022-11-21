@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem54SwapitySwap {
+public class SwapitySwap {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("swap.in"));
