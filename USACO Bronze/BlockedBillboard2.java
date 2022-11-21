@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem33BlockedBillboardII {
+public class BlockedBillboard2 {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("billboard.in"));
