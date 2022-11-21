@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem45SocialDistancingI {
+public class SocialDistancingI {
 
 	public static void main(String[] args) throws Exception {
 		
