@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem47OutOfPlace {
+public class OutOfPlace {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("outofplace.in"));
