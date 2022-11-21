@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Problem40WYDTCCTR2 {
+public class WDTCCTR2 {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("circlecross.in"));
