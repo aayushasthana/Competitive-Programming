@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem23DiamondCollector {
+public class DiamondCollector {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("diamond.in"));
