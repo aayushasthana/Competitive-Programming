@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class MockContest2P1 {
+public class WordProcessor {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(new File("word.in"));
