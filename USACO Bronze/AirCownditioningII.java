@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class problem2 {
+public class AirCownditioningII {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
