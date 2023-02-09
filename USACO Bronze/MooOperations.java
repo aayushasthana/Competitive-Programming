@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class problem3 {
+public class MooOperations {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
