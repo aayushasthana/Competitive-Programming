@@ -20,7 +20,6 @@ public class FieldReduction {
 			
 			coordinatesKeysX.put(xLocations[i], yLocations[i]);
 			coordinatesKeysY.put(yLocations[i], xLocations[i]);
-			
 		}
 		
 		//Sorting Xs and Ys
