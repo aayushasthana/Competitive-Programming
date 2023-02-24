@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Photoshoot {
+public class Photoshoot2022 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
