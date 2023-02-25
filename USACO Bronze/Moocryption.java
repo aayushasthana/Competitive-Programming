@@ -21,14 +21,6 @@ public class Moocryption {
 
 		sc.close();
 		
-		/*
-		 *	for i=A...Z:
-		 *		for j=i+1:
-		 *			count # of moos with those letters
-		 *
-		 *	return max
-		 */
-		
 		int mostMoos = 0;
 		int[][] directions = {{-1,-1}, {-1,0}, {-1,1}, {0,-1}, {0,1}, {1,-1}, {1,0}, {1,1}};
 		for (int i='A'; i<='Z'; i++) {
@@ -45,8 +37,6 @@ public class Moocryption {
 				int currMoos = 0;
 				for (int k=2; k<N+3; k++) {
 					for (int l=2; l<M+3; l++) {
-						
-						
 						if (board[k][l] == i) {
 							for (int a=0; a<8; a++) {
 								if (board[k+directions[a][0]][l+directions[a][1]] == j && 
