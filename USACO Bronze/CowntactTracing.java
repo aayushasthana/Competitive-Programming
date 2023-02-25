@@ -39,41 +39,6 @@ public class CowntactTracing {
 		
 		sc.close();
 		
-		/*
-		 create possibleK set
-		 create possibleInitialCow set
-		 
-		 iterate from K=0 to K=T:
-		 	iterate from initial cow = 1 to initial cow = N:
-		 		int[] currentStates = new int[N+1];
-		 		int[] cowK = new int[N+1];
-		 		cowK[initial cow] = K;
-		 		
-		 		iterate throught interactionTimes:
-		 			if (cow X is infected and cow Y isn't infected):
-		 				if (cow X's K value > 0):
-		 					decrease cow X's K value by 1
-		 					cow Y is now infected
-		 					cowK[cow Y] = K;
-		 			else if (cow Y is infected and cow X isn't infected):
-		 				if (cow Y's K value > 0):
-		 					decrease cow Y's K value by 1
-		 					cow X is now infected
-		 					cowK[cow X] = K;
-		 		
-		 		if current states is equal to final states:
-		 			possibleK.add(K);
-		 			possibleInitialCow.add(initial cow);
-		 		
-		 
-		 if (possibleK.max == T):
-		 	print(possibleInitialCows.size, possibleK.min, infinity);
-		 
-		 else:
-		 	print(possibleInitialCows.size, possibleK.min, possibleK.max);
-		 
-		 */
-		
 		Arrays.sort(interactionTimes);
 		
 		for (int i=1; i<T+1; i++) {
@@ -131,36 +96,7 @@ public class CowntactTracing {
 		 				}
 		 				
 		 			}
-		 			/*
-		 			else if (cowK[cowX.get(interactionTimes[j])] > 0) {
-		 				cowK[cowX.get(interactionTimes[j])] -= 1;
-		 			}
-		 			
-		 			else if (cowK[cowY.get(interactionTimes[j])] > 0) {
-		 				cowK[cowY.get(interactionTimes[j])] -= 1;
-		 			}
-		 			*/
 		 		}
-		 		
-		 		/*
-		 		if (K==2) {
-		 			System.out.println("I: " + I);
-		 			
-		 			for (int x=1; x<N+1; x++) {
-			 			System.out.print(currentStates[x] + " ");
-			 		}
-		 			
-		 			System.out.println();
-		 			System.out.println();
-		 			
-		 			for (int x=1; x<N+1; x++) {
-			 			System.out.print(finalStates[x] + " ");
-			 		}
-		 			
-		 			System.out.println();
-		 			System.out.println();
-		 		}
-		 		*/
 		 		
 		 		boolean equal = true;
 		 		for (int x=1; x<N+1; x++) {
