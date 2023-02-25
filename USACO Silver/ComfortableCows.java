@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class ClockwiseFence {
+public class ComfortableCows {
 
 	static int count = 0;
 	static int[][] grid = new int[4000][4000]; //(0,0) is grid[2000][2000], 0 = no cow, 1 = input cow, 2 = added cow
